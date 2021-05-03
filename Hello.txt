@@ -2,3 +2,13 @@ Hello World
 
 Commit and Sync
 	--> Commit + Push + Fetch
+
+	Once upon a midnight dreary
+	while I pondered weak and weary
+	over many quaints of old and forgotten lore
+
+	While I nodded nearly napping
+	suddenly there was a tapping
+	as of someone gently rapping
+	rapping on my chamber door
+	
